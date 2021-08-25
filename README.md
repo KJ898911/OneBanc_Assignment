@@ -4,6 +4,7 @@ Samsung Note 20 clone made for Assessment purposes:-
 Please Follow these Instructions to carefully run the project with all the animations:-
 
 Step 1: Please download the project by selecting Code button and then downloading the zip file. Please keep all the files in the same folder.
+
 ![](readme_images/img1.png)
 
 
