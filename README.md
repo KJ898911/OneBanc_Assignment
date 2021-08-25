@@ -16,7 +16,7 @@ Step 3: On VS Code install "LIVE SERVER" extension
 
 
 Step 4: After Live server has been successfully installed. Open the "index.html" file in the project folder using "VS Code".
-       "index.html" can be found in the project here => www.samsung.com / in / smartphones / galaxy-note20 / index.html (NOTE:- These are project folder names)
+       "index.html" can be found in the project here in the following directory=> www.samsung.com > in > smartphones > galaxy-note20 > index.html (NOTE:- These are project folder names)
  
 
 Step 5: After you have opened index.html in VS code click "Go live" button in the botton right corner of the VS code window.
